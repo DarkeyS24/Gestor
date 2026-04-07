@@ -1,0 +1,6 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/DarkeyS24/Gestor-Project-Server.git
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/DarkeyS24/Gestor-Project-Mobile.git
